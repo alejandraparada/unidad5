@@ -1,0 +1,22 @@
+header{
+    background-color: burlywood;
+}
+nav{
+    background-color: gray;
+}
+section{
+    background-color: chocolate;
+}
+article{
+    background-color: aquamarine;
+}
+footer{
+    background-color: darkblue;
+}
+aside{
+    background-color: beige;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row;
+}
