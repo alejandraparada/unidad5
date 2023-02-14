@@ -1,0 +1,9 @@
+div .botones{
+    background-color: bisque;
+}
+@media (min-widht: 600px){
+    body{
+        background-color: antiquewhite;
+    }
+    
+}
